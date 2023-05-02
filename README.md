@@ -4,7 +4,7 @@
 
 # Project Description
 
-In this project, I will be building an image captioning system using deep learning techniques. The goal of the project is to create a system that can generate natural language descriptions for images. I will use an off-the-shelf image encoder to create matrices of image representations and an LSTM language generator to produce captions for those images.
+In this project, I will be building an image captioning system using deep learning techniques. The goal of the project is to create a system that can generate natural language descriptions for images. I will use an off-the-shelf image encoder to create matrices of image representations and an LSTM language generator to produce captions for those images. Data source: https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Szegedy_Rethinking_the_Inception_CVPR_2016_paper.html
 
 # Project Workflow
 
